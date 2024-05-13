@@ -1,0 +1,16 @@
+[
+    { "product": "Commodity", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Cassava (Fresh Tubers)", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Rice (Local) ", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Maize (White) ", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Garri (White) ", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Beans (Brown) ", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Beans (Olotu) ", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Millet (White) ", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Sorghum (Red) ", "unit": "Bag", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Yam (Tubers) ", "unit": "Kg", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Plantain (Bunches) ", "unit": "Bunch", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" },
+    { "product": "Tomatoes (Basket) ", "unit": "Basket", "weight": "514 kg", "price": "$10", "thisMonth": "100", "lastMonth": "90", "change": "10%" }
+    
+  ]
+  
