@@ -64,13 +64,13 @@ function Categorieitems() {
         },
     ];
 
-    const handleSearch = (e) => {
+    const handleSearch = (e:any) => {
         setSearchTerm(e.target.value);
         const filtered = items.filter(item =>
             item.heading.toLowerCase().includes(e.target.value.toLowerCase())
         );
 
-        setFilteredItems(filtered );
+        setFilteredItems(filtered);
     };
 
     const itemsToDisplay = searchTerm.length > 0 ? filteredItems : items;

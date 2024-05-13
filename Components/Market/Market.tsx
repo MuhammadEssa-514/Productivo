@@ -13,9 +13,6 @@ function Market() {
   return (
     <div>
      <div className='bg-gray-300 flex '>
-      {/* <div className='bg-[#004AAD] w-[231px] h-[1628px] text-white flex'>
-        <Sidebar />
-      </div> */}
       <div className='w-full' > 
         <div className='m-auto'>
           <div className='flex items-center justify-between text-black bg-white'>
