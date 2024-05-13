@@ -26,6 +26,10 @@ function Dashbord() {
       <div className="lg:flex md:block gap-[19px]">
         <div className=" lg:w-[60%] md:w-full bg-white p-6 leading-6 rounded-lg">
           <h1 className="pb-5 text-[22px] font-semibold">Alcopops  Popularity</h1>
+          <div className="w-[60%]">
+          <CircleChart/>
+          </div>
+
         </div>
         <div className="lg:w-[50%] md:w-full bg-white p-6 leading-6 rounded-lg">
           <h1 className="pb-5 text-[22px] font-semibold">Price Development</h1>
@@ -54,7 +58,7 @@ function Dashbord() {
 
     </div>
     <div className=''>
-        <Login />
+        {/* <Login /> */}
         </div>
   
 
